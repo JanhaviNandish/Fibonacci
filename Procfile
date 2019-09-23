@@ -1,0 +1,1 @@
+web: gunicorn fibonacciapp.wsgi
